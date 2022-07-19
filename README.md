@@ -2,7 +2,7 @@
 - 👀 I’m interested in mathematics
 - 🌱 I’m currently learning Python
 - 💬 Ask me about anything
-- 📫 How to reach me: @EnAnsari on Telegram
+- 📫 How to reach me:
 
 <!---
 EnAnsari/EnAnsari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
