@@ -28,7 +28,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://twitter.com/EnAnsari0">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://quera.org/profile/64chkr">
-    <img src="https://img.shields.io/badge/Q-Quera-purple" alt="Quera Badge"/>
-  </a>
 </div>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EnAnsari&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnAnsari)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnAnsari&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
