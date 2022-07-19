@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahmat
+\# Hi, I’m Rahmat! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 👀 I’m interested in mathematics
 - 🌱 I’m currently learning Python
 - 💬 Ask me about anything
