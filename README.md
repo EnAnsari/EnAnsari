@@ -13,9 +13,6 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:Rahmat2022a@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://twitter.com/EnAnsari0">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href="https://t.me/EnAnsari">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -27,5 +24,11 @@ You can click the Preview link to take a look at your changes.
   </a>
   <a href="https://codeforces.com/profile/EnAnsari">
     <img src="https://img.shields.io/badge/Codeforces-yellow?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
+  </a>
+  <a href="https://twitter.com/EnAnsari0">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://quera.org/profile/64chkr">
+    <img src="https://img.shields.io/badge/Q-Quera-purple" alt="Quera Badge"/>
   </a>
 </div>
