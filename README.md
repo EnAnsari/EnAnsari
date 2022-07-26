@@ -31,6 +31,9 @@ You can click the Preview link to take a look at your changes...
   <a href="https://stackoverflow.com/users/19568559/rahmat">
     <img src="https://img.shields.io/badge/stackoverflow-yellow?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
+  <a href="https://www.codechef.com/users/enansari">
+    <img src="https://img.shields.io/badge/codechef-orange?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef Badge"/>
+  </a>
 <!--   <a href="https://stackoverflow.com/users/19568559/rahmat">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a> -->
