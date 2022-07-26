@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes...
 ### Other:
   </a>
   <a href="https://quera.org/profile/EnAnsari">
-    <img src="https://quera.org/static/images/logo/logo2.2-1873ae11eaf6.svg" width="50px" height="11px" alt="Quera Badge"/>
+    <img src="https://quera.org/static/images/logo/logo2.2-1873ae11eaf6.svg" alt="Quera Badge"/>
   </a>
 
 
