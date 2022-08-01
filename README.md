@@ -17,29 +17,44 @@ You can click the Preview link to take a look at your changes...
   <a href="mailto:En.Ansari@outlook.com">
     <img src="https://img.shields.io/badge/seconond%20Email:%20En.Ansari@outlook.com-cyan?style=for-the-badge&logo=microsoft&logoColor=white" alt="outlook Badge"/>
   </a>
+  <br>
   <a href="https://t.me/EnAnsari">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram:%20@EnAnsari-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://instagram.com/En.R.Ansari">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://gitlab.com/EnAnsari">
-    <img src="https://img.shields.io/badge/gitlab-yellow?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab Badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/enansari/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.reddit.com/user/EnAnsari">
-    <img src="https://img.shields.io/badge/reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="reddit Badge"/>
+
+  <a href="https://stackoverflow.com/users/19568559/rahmat">
+    <img src="https://img.shields.io/badge/stackoverflow-yellow?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
   </a>
   <a href="https://twitter.com/EnAnsari0">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://gitlab.com/EnAnsari">
+    <img src="https://img.shields.io/badge/gitlab-yellow?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab Badge"/>
+  </a>
+  <a href="https://bitbucket.org/enansari/">
+    <img src="https://img.shields.io/badge/bitbucket-blue?style=for-the-badge&logo=bitbucket&logoColor=white" alt="bitbucket Badge"/>
+  </a>
+  <a href="https://www.reddit.com/user/EnAnsari">
+    <img src="https://img.shields.io/badge/reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="reddit Badge"/>
+  </a>
+  <a href="https://www.twitch.tv/enansari">
+    <img src="https://img.shields.io/badge/twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch Badge"/>
+  </a>
   <a href="https://www.quora.com/profile/EnAnsari">
     <img src="https://img.shields.io/badge/quora-red?style=for-the-badge&logo=quora&logoColor=white" alt="Quora Badge"/>
   </a>
-  <a href="https://stackoverflow.com/users/19568559/rahmat">
-    <img src="https://img.shields.io/badge/stackoverflow-yellow?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
+  <br>
+  <a href="https://virgool.io/@EnAnsari">
+    <img src="https://img.shields.io/badge/virgool-purple?style=for-the-badge&logo=virgool&logoColor=white" alt="virgool Badge"/>
+  </a>
+  <a href="http://enansari.blogfa.com/">
+    <img src="https://img.shields.io/badge/weblog-navy?style=for-the-badge&logo=log&logoColor=white" alt="blogfa Badge"/>
   </a>
 <!--   <a href="https://stackoverflow.com/users/19568559/rahmat">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
