@@ -20,11 +20,20 @@ You can click the Preview link to take a look at your changes...
   <a href="https://instagram.com/En.R.Ansari">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="https://gitlab.com/EnAnsari">
+    <img src="https://img.shields.io/badge/gitlab-yellow?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/enansari/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.reddit.com/user/EnAnsari">
+    <img src="https://img.shields.io/badge/reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="reddit Badge"/>
+  </a>
   <a href="https://twitter.com/EnAnsari0">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.quora.com/profile/EnAnsari">
+    <img src="https://img.shields.io/badge/quora-red?style=for-the-badge&logo=quora&logoColor=white" alt="Quora Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/19568559/rahmat">
     <img src="https://img.shields.io/badge/stackoverflow-yellow?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
@@ -51,8 +60,14 @@ You can click the Preview link to take a look at your changes...
   <a href="https://www.hackerearth.com/@EnAnsari">
     <img src="https://img.shields.io/badge/hackerearth-navy?style=for-the-badge&logo=hackerearth&logoColor=white" alt="hackerearth Badge"/>
   </a>
+  <a href="https://www.hackerrank.com/EnAnsari">
+    <img src="https://img.shields.io/badge/hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank Badge"/>
+  </a>
   <a href="https://leetcode.com/EnAnsari/">
     <img src="https://img.shields.io/badge/leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode Badge"/>
+  </a>
+  <a href="https://www.spoj.com/users/enansari/">
+    <img src="https://img.shields.io/badge/spoj-blue?style=for-the-badge&logo=spoj&logoColor=white" alt="spoj Badge"/>
   </a>
   <a href="https://coderbyte.com/profile/EnAnsari">
     <img src="https://img.shields.io/badge/coderbyte-aqua?style=for-the-badge&logo=x&logoColor=white" alt="coderbyte Badge"/>
