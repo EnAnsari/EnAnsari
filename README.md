@@ -61,9 +61,10 @@ You can click the Preview link to take a look at your changes...
   <a href="https://projecteuler.net/friends">
     <img src="https://img.shields.io/badge/My%20Key%20in%20Project%20Euler:-orange?style=for-the-badge&logo=projecteuler&logoColor=white" alt="project euler Badge"/>
   </a>
-  ```
-  1978636_d6UqNoksw41nPuVqKx7rw2JzhDf1B9Tl
-  ```
+
+```
+1978636_d6UqNoksw41nPuVqKx7rw2JzhDf1B9Tl
+```
 </div>
 
 <!--
