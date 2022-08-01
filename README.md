@@ -14,6 +14,9 @@ You can click the Preview link to take a look at your changes...
   <a href="mailto:Rahmat2022a@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <a href="mailto:Rahmat2022a@gmail.com">
+    <img src="https://img.shields.io/badge/seconond%20Email-cyan?style=for-the-badge&logo=microsoft&logoColor=white" alt="outlook Badge"/>
+  </a>
   <a href="https://t.me/EnAnsari">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
