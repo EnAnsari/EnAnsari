@@ -20,6 +20,9 @@ You can click the Preview link to take a look at your changes...
   <a href="https://t.me/EnAnsari">
     <img src="https://img.shields.io/badge/Telegram:%20@EnAnsari-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="https://gitlab.com/EnAnsari">
+    <img src="https://img.shields.io/badge/gitlab-yellow?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/enansari/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -31,9 +34,6 @@ You can click the Preview link to take a look at your changes...
   </a>
   <a href="https://stackoverflow.com/users/19568559/rahmat">
     <img src="https://img.shields.io/badge/stackoverflow-yellow?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge"/>
-  </a>
-  <a href="https://gitlab.com/EnAnsari">
-    <img src="https://img.shields.io/badge/gitlab-yellow?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab Badge"/>
   </a>
   <a href="https://bitbucket.org/enansari/">
     <img src="https://img.shields.io/badge/bitbucket-blue?style=for-the-badge&logo=bitbucket&logoColor=white" alt="bitbucket Badge"/>
