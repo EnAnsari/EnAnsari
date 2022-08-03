@@ -41,6 +41,9 @@ You can click the Preview link to take a look at your changes...
   <a href="https://www.reddit.com/user/EnAnsari">
     <img src="https://img.shields.io/badge/reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="reddit Badge"/>
   </a>
+  <a href="https://join.skype.com/invite/IKXNXJE5Wa0z">
+    <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
+  </a>
   <a href="https://www.twitch.tv/enansari">
     <img src="https://img.shields.io/badge/twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch Badge"/>
   </a>
