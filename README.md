@@ -56,6 +56,9 @@ You can click the Preview link to take a look at your changes...
   <a href="http://enansari.blogfa.com/">
     <img src="https://img.shields.io/badge/weblog-navy?style=for-the-badge&logo=log&logoColor=white" alt="blogfa Badge"/>
   </a>
+  <a href="https://www.pinterest.com/EnAnsari/">
+    <img src="https://img.shields.io/badge/pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="pinterest Badge"/>
+  </a>
 <!--   <a href="https://stackoverflow.com/users/19568559/rahmat">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a> -->
