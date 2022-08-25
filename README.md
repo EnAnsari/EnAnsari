@@ -118,3 +118,5 @@ You can click the Preview link to take a look at your changes...
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=EnAnsari&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
      alt="Rahmat's GitHub Stats"/>
+
+<!-- copyright 2022, EnAnsari -->
