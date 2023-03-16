@@ -114,7 +114,9 @@ You can click the Preview link to take a look at your changes...
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EnAnsari&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
-
+![Rahmat's github stats](https://github-readme-stats.vercel.app/api?username=enansari&show_icons=true&theme=gotham) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enansari&theme=gotham&layout=compact)](https://github.com/enansari/enansari)
+<br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnAnsari&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=EnAnsari&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
