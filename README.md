@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Artificial Intelligence
 - 💬 Ask me about anything
 - ⭐ The fastest way to contact me is <a href="mailto:Rahmat2022a@gmail.com">my email</a>
-- 📫 How to reach me:
 - 🔗 <a href="https://github.com/EnAnsari/EnAnsari/blob/main/list-of-hsu.md">link of my repositories in hakim sabzevari university</a>
+- - 📫 How to reach me:
 <!---
 EnAnsari/EnAnsari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes...
