@@ -4,7 +4,10 @@
 - 💬 Ask me about anything
 - ⭐ The fastest way to contact me is <a href="mailto:Rahmat2022a@gmail.com">my email</a>
 - 🔗 <a href="https://github.com/EnAnsari/EnAnsari/blob/main/list-of-hsu.md">link of my repositories in hakim sabzevari university</a>
-- - 📫 How to reach me:
+
+<details>
+  <summary>📫 How to reach me: (click me)</summary>
+  <br>
 <!---
 EnAnsari/EnAnsari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes...
@@ -63,8 +66,10 @@ You can click the Preview link to take a look at your changes...
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a> -->
 </div>
-
-### My accounts on challenge websites:
+</details>
+<details>
+  <summary>👾 My accounts on challenge websites: (click me)</summary>
+  <br>
 <div id="badges">
   <a href="https://quera.org/profile/EnAnsari">
     <img src="https://img.shields.io/badge/quera-blue?style=for-the-badge&logo=q&logoColor=white" alt="Quera Badge"/>
@@ -110,8 +115,12 @@ You can click the Preview link to take a look at your changes...
     <img src="https://quera.org/static/images/logo/logo2.2-1873ae11eaf6.svg" width="100px" height="23px" alt="Quera Badge"/>
   </a>
 -->
+</details>
 
-### :fire: My Stats :
+<details>
+  <summary> :fire: My Stats : (click me)</summary>
+  <br>
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EnAnsari&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 ![Rahmat's github stats](https://github-readme-stats.vercel.app/api?username=enansari&show_icons=true&theme=gotham) <br>
@@ -122,4 +131,6 @@ You can click the Preview link to take a look at your changes...
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=EnAnsari&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
      alt="Rahmat's GitHub Stats"/> -->
 
+
+</details>
 <!-- copyright 2022, EnAnsari -->
