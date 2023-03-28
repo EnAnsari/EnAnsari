@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Hi, I’m Rahmat! 
 [![fa](https://img.shields.io/badge/language-Persian-red.svg)](https://github.com/EnAnsari/EnAnsari)
-[![ge](https://img.shields.io/badge/language-German-yellow.svg)](https://github.com/EnAnsari/EnAnsari)
+[![de](https://img.shields.io/badge/language-Deutsch-yellow.svg)](https://github.com/EnAnsari/EnAnsari)
 - 👀 I’m interested in mathematics
 - 🌱 I’m currently learning Artificial Intelligence
 - 💬 Ask me about anything
