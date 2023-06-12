@@ -1,7 +1,7 @@
 # ریپوهای مربوط به دانشگاه حکیم
 <br>
-
-<table dir='rtl'>
+<div dir='rtl'>
+<table>
   <tr>
     <th>ردیف</th>
     <th>درس</th>
@@ -19,3 +19,4 @@
     </td>
   </tr>
 </table>
+</div>
