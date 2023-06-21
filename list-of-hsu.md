@@ -30,9 +30,9 @@
     <td>3</td>
     <td>سیستم دیجیتال</td>
     <td>
-        <a href='https://github.com/EnAnsari/digital-system'>digital-system</a>
+        <a href='https://github.com/EnAnsari/digital-system'>digital-system</a><br><a href='https://github.com/EnAnsari/ALU-by-8bit-MATLAB-proteus'>ALU-by-8bit-MATLAB-proteus</a>
     </td>
-    <td>این ریپو شامل درس‌های آزمایشگاه مدار منطقی و آزمایشگاه<br>معماری و همچنین پروژه معماری کامپیوتر می‌باشد.</td>
+    <td>این ریپو شامل درس‌های آزمایشگاه مدار منطقی و آزمایشگاه<br>معماری و همچنین پروژه معماری کامپیوتر می‌باشد.<br>ریپوی دوم هم مربوط به پروژه معماری است.</td>
   </tr>
 </table>
 </div>
