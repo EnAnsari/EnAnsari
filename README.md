@@ -4,6 +4,7 @@
 
 [![fa](https://img.shields.io/badge/language-Persian-red.svg)](https://github.com/EnAnsari/EnAnsari)
 [![de](https://img.shields.io/badge/language-Deutsch-yellow.svg)](https://github.com/EnAnsari/EnAnsari)
+[![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://github.com/EnAnsari/EnAnsari/releases/download/0/resume.pdf)
 ![](https://visitor-badge.glitch.me/badge?page_id=enansari.enansari)
   <a href="https://www.instagram.com/abhisheknaiidu/">
   <img alt="Rahmat's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
