@@ -2,16 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=34F500&vCenter=true&width=435&height=45&lines=%F0%9F%91%8B+Hi%2C+I'm+Rahmat!+;I+love+AI+%E2%9D%A4%EF%B8%8F;Junior+Back-end+dev.;Always+learning+%F0%9F%A4%96)](https://git.io/typing-svg)
 
+[![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://github.com/EnAnsari/EnAnsari/releases/download/0/ansari-resume.pdf)
 [![fa](https://img.shields.io/badge/language-Persian-red.svg)](https://github.com/EnAnsari/EnAnsari)
 [![de](https://img.shields.io/badge/language-Deutsch-yellow.svg)](https://github.com/EnAnsari/EnAnsari)
-[![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://github.com/EnAnsari/EnAnsari/releases/download/0/resume.pdf)
-![](https://visitor-badge.glitch.me/badge?page_id=enansari.enansari)
-  <a href="https://www.instagram.com/abhisheknaiidu/">
+<a href="https://www.instagram.com/abhisheknaiidu/">
   <img alt="Rahmat's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
+
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=enansari.enansari) -->
+<!--
 <a href="https://twitter.com/enansari0">
   <img alt="Rahmat | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/enansari/">
   <img alt="Rahmat's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+-->
 
 - 👀 I’m interested in mathematics
 - 🌱 I’m currently learning Artificial Intelligence
