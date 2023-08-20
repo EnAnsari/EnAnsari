@@ -16,7 +16,9 @@
   <img alt="Rahmat's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 -->
 
-- 👀 I’m interested in mathematics
+<!-- 👀 I’m interested in mathematics -->
+
+- ❤️ Love to build things people use
 - 🌱 I’m currently learning Artificial Intelligence
 - 💬 Ask me about anything
 - ⭐ The fastest way to contact me is <a href="mailto:Rahmat2022a@gmail.com">my email</a>
