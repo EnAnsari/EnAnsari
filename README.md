@@ -19,10 +19,10 @@
 <!-- 👀 I’m interested in mathematics -->
 
 - ❤️ Love to build things people use
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently learning Artificial Intelligence and <a href='https://github.com/django'>@Django</a>
+- 🎓 Bsc. student at <a href="https://github.com/EnAnsari/EnAnsari/blob/main/list-of-hsu.md">Hakim Sabzevari University</a>
 - 💬 Ask me about anything
 - ⭐ The fastest way to contact me is <a href="mailto:Rahmat2022a@gmail.com">my email</a>
-- 🔗 <a href="https://github.com/EnAnsari/EnAnsari/blob/main/list-of-hsu.md">link of my repositories in hakim sabzevari university</a>
 
 <!-- <a href="https://discord.gg/XTW52Kt">
   <img alt="Rahmat's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a> -->
