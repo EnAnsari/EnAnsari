@@ -26,9 +26,8 @@
 
 <!-- <a href="https://discord.gg/XTW52Kt">
   <img alt="Rahmat's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a> -->
-
-<details>
-  <summary>📫 How to reach me</summary>
+  
+<details><summary>📫 (click to expand) <strong>How to reach me</strong></summary>
   <br>
 
 <div id="badges">
@@ -56,8 +55,7 @@
     <img src="https://img.shields.io/badge/pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="pinterest Badge"/></a>
 </div>
 </details>
-<details>
-  <summary>👾 My accounts on challenge websites</summary>
+<details><summary>👾 (click to expand) <strong>My accounts on challenge websites</strong></summary>
   <br>
 <div id="badges">
   <a href="https://quera.org/profile/EnAnsari">
@@ -89,12 +87,11 @@
 
 </details>
 
-<details>
-  <summary> :fire: My Stats</summary>
-  <br>
+<details><summary> :fire: (click to expand) <strong>My Stats</strong></summary>
+<br>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EnAnsari&theme=dark&background=000000)](https://git.io/streak-stats)<br>
-![Rahmat's github stats](https://github-readme-stats.vercel.app/api?username=enansari&show_icons=true&theme=gotham) <br>
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EnAnsari&theme=dark&background=000000)](https://git.io/streak-stats)<br> -->
+![Rahmat's github stats](https://github-readme-stats.vercel.app/api?username=enansari&show_icons=true&theme=gotham) <br> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enansari&theme=gotham&layout=compact)](https://github.com/enansari/enansari)<br>
 
 </details>
