@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=34F500&vCenter=true&width=435&height=45&lines=%F0%9F%91%8B+Hi%2C+I'm+Rahmat!+;I+love+AI+%E2%9D%A4%EF%B8%8F;Junior+Back-end+dev.;Always+learning+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 [![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://github.com/EnAnsari/EnAnsari/releases/download/0/ansari-resume.pdf)
-[![fa](https://img.shields.io/badge/language-Persian-red.svg)](https://github.com/EnAnsari/EnAnsari)
-[![de](https://img.shields.io/badge/language-Deutsch-yellow.svg)](https://github.com/EnAnsari/EnAnsari)
+[![fa](https://img.shields.io/badge/language-Persian-red.svg)](https://github.com/EnAnsari/EnAnsari/blob/main/other-lang/README-FA.md)
+[![de](https://img.shields.io/badge/language-Deutsch-yellow.svg)](https://github.com/EnAnsari/EnAnsari/blob/main/other-lang/README-DE.md)
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img alt="Rahmat's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
 
