@@ -5,10 +5,11 @@
 [![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://github.com/EnAnsari/EnAnsari/releases/download/0/ansari-resume.pdf)
 [![fa](https://img.shields.io/badge/language-Persian-red.svg)](https://github.com/EnAnsari/EnAnsari/blob/main/other-lang/README-FA.md)
 [![de](https://img.shields.io/badge/language-Deutsch-yellow.svg)](https://github.com/EnAnsari/EnAnsari/blob/main/other-lang/README-DE.md)
+
+<!--
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img alt="Rahmat's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
-
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=enansari.enansari) -->
+![](https://visitor-badge.glitch.me/badge?page_id=enansari.enansari) -->
 <!--
 <a href="https://twitter.com/enansari0">
   <img alt="Rahmat | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
@@ -16,8 +17,10 @@
   <img alt="Rahmat's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 -->
 
-<!-- 👀 I’m interested in mathematics -->
 
+<details open><summary>👀 (click to condense!)</summary><br>
+  
+<!-- 👀 I’m interested in mathematics -->
 - ❤️ Love to build things people use
 - 🔭 I’m currently working on **AHLM (user interface of a micro-lab)**
 - 🌱 I’m currently learning AI ([open-cv](https://github.com/opencv) & **ML**) and [Django](https://github.com/django)
@@ -28,7 +31,7 @@
 - 📄 Know about my experiences in [my resume](https://github.com/EnAnsari/EnAnsari/releases/download/0/ansari-resume.pdf)
 - ⭐ The fastest way to contact me is <a href="mailto:Rahmat2022a@gmail.com">my email</a>
 - ⚡ Fun fact **HSU in not a university 🫤**
-
+</details>
 <!-- <a href="https://discord.gg/XTW52Kt">
   <img alt="Rahmat's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a> -->
   
