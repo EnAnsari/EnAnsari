@@ -21,16 +21,19 @@
 <details open><summary>👀 (click to condense!)</summary><br>
   
 <!-- 👀 I’m interested in mathematics -->
-- ❤️ Love to build things people use
-- 🔭 I’m currently working on **AHLM (user interface of a micro-lab)**
-- 🌱 I’m currently learning AI ([open-cv](https://github.com/opencv) & **ML**) and [Django](https://github.com/django)
-- 👨‍💻 All of my projects are available at [my portfolio page](https://github.com/EnAnsari/EnAnsari/blob/main/portfolio.md)
-- 🎓 Bsc. student at [Hakim Sabzevari University](https://github.com/EnAnsari/EnAnsari/blob/main/list-of-hsu.md)
-- 📝 I regularly write articles on [my virgool](https://virgool.io/@EnAnsari)
-- 💬 Ask me about **Machine learning and algorithm**
-- 📄 Know about my experiences in [my resume](https://github.com/EnAnsari/EnAnsari/releases/download/0/ansari-resume.pdf)
-- ⭐ The fastest way to contact me is <a href="mailto:Rahmat2022a@gmail.com">my email</a>
-- ⚡ Fun fact **HSU in not a university 🫤**
+<ul>
+  <li>❤️ Love to build things people use</li>
+  <li>🔭 I’m currently working on <strong>AHLM (user interface of a micro-lab)</strong></li>
+  <li>🌱 I’m currently learning AI <a href='https://github.com/opencv'>open-cv</a> & <strong>ML</strong>) and <a href='https://github.com/django'>Django</a></li>
+  <li>👨‍💻 All of my projects are available at <a href='https://github.com/EnAnsari/EnAnsari/blob/main/portfolio.md'>my portfolio page</a></li>
+  <li>🎓 Bsc. student at <a href='https://github.com/EnAnsari/EnAnsari/blob/main/list-of-hsu.md'>Hakim Sabzevari University</a></li>
+  <li>📝 I regularly write articles on <a href='https://virgool.io/@EnAnsari'>my virgool</a> and <a href='https://enansari.blog.ir/'>Blog</a></li>
+  <li>💬 Ask me about <strong>Machine learning and algorithm</strong></li>
+  <li>📄 Know about my experiences in <a href='https://github.com/EnAnsari/EnAnsari/releases/download/0/ansari-resume.pdf'>my resume</a></li>
+  <li>⭐ The fastest way to contact me is <a href="mailto:Rahmat2022a@gmail.com">my email</a></li>
+  <li>⚡ Fun fact:<br><p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1500&vCenter=true&width=600&height=18&lines=HSU+is+not+a+university+%F0%9F%AB%A4;One+day%2C+Machine+Learning+goes+to+the+cafe%2C;the+barista+asks+her%2C+%22What+do+you+drink%3F%22;He+says+that+he+drinks+everything+else+%F0%9F%A4%A3" alt="Typing SVG" /></a></p></li>
+</ul>
+
 </details>
 <!-- <a href="https://discord.gg/XTW52Kt">
   <img alt="Rahmat's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a> -->
