@@ -31,7 +31,7 @@
   <li>💬 Ask me about <strong>Machine learning and algorithm</strong></li>
   <li>📄 Know about my experiences in <a href='https://github.com/EnAnsari/EnAnsari/releases/download/0/ansari-resume.pdf'>my resume</a></li>
   <li>⭐ The fastest way to contact me is <a href="mailto:Rahmat2022a@gmail.com">my email</a></li>
-  <li>⚡ Fun facts:<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1500&vCenter=true&width=600&height=18&lines=HSU+is+not+a+university+%F0%9F%AB%A4;One+day%2C+Machine+Learning+goes+to+the+cafe%2C;the+barista+asks+her%2C+%22What+do+you+drink%3F%22;He+says+that+he+drinks+everything+else+%F0%9F%A4%A3" alt="Typing SVG" /></a></p></li>
+  <li><details><summary>⚡ (click to expand) <strong>Fun facts</strong></summary><p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1500&vCenter=true&width=600&height=18&lines=HSU+is+not+a+university+%F0%9F%AB%A4;One+day%2C+Machine+Learning+goes+to+the+cafe%2C;the+barista+asks+her%2C+%22What+do+you+drink%3F%22;He+says+that+he+drinks+everything+else+%F0%9F%A4%A3" alt="Typing SVG" /></a></p></details></li>
 </ul>
 
 </details>
