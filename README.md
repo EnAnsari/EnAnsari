@@ -127,9 +127,12 @@
 <br>
   <div  align="center">
     
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EnAnsari&theme=dark&background=000000)](https://git.io/streak-stats)<br> -->
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EnAnsari&theme=dark&background=000000)](https://git.io/streak-stats) <br>
 ![Rahmat's github stats](https://github-readme-stats.vercel.app/api?username=enansari&show_icons=true&theme=gotham) <br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enansari&theme=gotham&layout=compact)](https://github.com/enansari/enansari)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enansari&theme=gotham&layout=compact)](https://github.com/enansari/enansari)<br> -->
+<img src="http://github-readme-streak-stats.herokuapp.com?user=EnAnsari&theme=dark&background=000000" alt="GitHub Streak" style="width:400px;"/><br>
+<img src="https://github-readme-stats.vercel.app/api?username=enansari&show_icons=true&theme=gotham" alt="Rahmat's github stats" style="width:400px;"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enansari&theme=gotham&layout=compact" alt="Top Langs" style="width:400px;"/>
   </div>
 </details>
 <!-- copyright 2022, 2023 EnAnsari -->
