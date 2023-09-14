@@ -1,6 +1,7 @@
 # ریپوهای مربوط به دانشگاه حکیم
-<br>
+
 <div dir='rtl'>
+<h2>جدول دروس</h2>
 <table>
   <tr>
     <th>ردیف</th>
@@ -12,10 +13,12 @@
     <td>1</td>
     <td>مبانی کامیپوتر</td>
     <td>
-        <a href='https://github.com/EnAnsari/hsu-archive-codes/'>hsu-archive-codes</a>
+        <a href='https://github.com/EnAnsari/hsu-archive-codes/'>hsu-archive-codes</a><br>
+        <a href='https://github.com/EnAnsari/bcp-hsu'>bcp-hsu</a>
     </td>
     <td>کد مربوط به درس در 
-        <a href='https://github.com/EnAnsari/hsu-archive-codes/tree/main/semiterm_1/Programming-Basics'>این لینک +</a>
+        <a href='https://github.com/EnAnsari/hsu-archive-codes/tree/main/semiterm_1/Programming-Basics'>این لینک +</a><br>
+        ریپوزیتوری دوم مربوط به حل تمرینی این درس می‌باشد
     </td>
   </tr>
   <tr>
@@ -63,6 +66,71 @@
     <td>سیستم‌های تصمیم یار</td>
     <td>
         <a href='https://github.com/EnAnsari/DSS1401'>DSS1401</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>هوش محاسباتی</td>
+    <td>
+        <a href='https://github.com/EnAnsari/comp-intl-hsu'>comp-intl-hsu</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>پردازش تصویر</td>
+    <td>
+        <a href='https://github.com/EnAnsari/img-hsu'>img-hsu</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>طراحی الگوریتم</td>
+    <td>
+        <a href='https://github.com/EnAnsari/algorithm-hsu'>algorithm-hsu</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>محیط چندرسانه‌ای</td>
+    <td>
+        <a href='https://github.com/EnAnsari/multi-media'>multi-media</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+<br><h2>دیگر جدول</h2>
+<table>
+  <tr>
+    <th>ردیف</th>
+    <th>موضوع</th>
+    <th>ریپوزیتوری</th>
+    <th>توضیحات</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>جا امتحانی</td>
+    <td>
+        <a href='https://github.com/EnAnsari/quiz-hsu'>quiz-hsu</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>مسابقات برنامه‌نویسی</td>
+    <td>
+        <a href='https://github.com/EnAnsari/hsu-programming-competitions'>hsu-programming-competitions</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>المپیاد دانشجویی</td>
+    <td>
+        <a href='https://github.com/EnAnsari/student-olympiad'>student-olympiad</a>
     </td>
     <td></td>
   </tr>
