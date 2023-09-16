@@ -24,7 +24,7 @@
 <ul>
   <li>❤️ Love to build things people use</li>
   <li>🔭 I’m currently working on <strong>AHLM (user interface of a micro-lab)</strong></li>
-  <li>🌱 I’m currently learning AI <a href='https://github.com/opencv'>open-cv</a> & <strong>ML</strong>) and <a href='https://github.com/django'>Django</a></li>
+  <li>🌱 I’m currently learning AI (<a href='https://github.com/opencv'>open-cv</a> & <strong>ML</strong>) and <a href='https://github.com/django'>Django</a></li>
   <li>👨‍💻 All of my projects are available at <a href='https://github.com/EnAnsari/EnAnsari/blob/main/portfolio.md'>my portfolio page</a></li>
   <li>🎓 Bsc. student at <a href='https://github.com/EnAnsari/EnAnsari/blob/main/list-of-hsu.md'>Hakim Sabzevari University</a></li>
   <li>📝 I regularly write articles on <a href='https://virgool.io/@EnAnsari'>my virgool</a> and <a href='https://enansari.blog.ir/'>Blog</a></li>
