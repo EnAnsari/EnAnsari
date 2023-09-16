@@ -51,5 +51,11 @@
     <li>
       اثر مرکب - دارن هاردی (<a href='http://ketabrah.ir/go/b18886'>+</a>)
     </li>
+      <li>
+      شجاعت رهبری - برنه براون (<a href='https://taaghche.com/book/74112'>+</a>)
+    </li>
+      <li>
+      راهنمای تفکر خلاق - کریس گریفیث (<a href='https://digibookshahr.com/product/%D8%AE%D8%B1%DB%8C%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D8%AA%D9%81%DA%A9%D8%B1-%D8%AE%D9%84%D8%A7%D9%82-%DA%A9%D8%B1%DB%8C%D8%B3-%DA%AF%D8%B1%DB%8C%D9%81%DB%8C/'>+</a>)
+    </li>
   </ul>
 </div>
