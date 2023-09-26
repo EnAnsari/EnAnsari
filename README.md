@@ -1,6 +1,6 @@
 <!-- # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Hi, I’m Rahmat! -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=34F500&vCenter=true&width=435&height=45&lines=%F0%9F%91%8B+Hi%2C+I'm+Rahmat!+;I+love+AI+%E2%9D%A4%EF%B8%8F;Junior+Back-end+dev.;Always+learning+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=34F500&vCenter=true&width=435&height=45&lines=%F0%9F%91%8B+Hi%2C+I'm+Rahmat!+;I+love+AI+%E2%9D%A4%EF%B8%8F;Junior+Back-end+dev.;Always+learning+%F0%9F%A4%96)](https://enansari.github.io/)
 
 [![resume](https://img.shields.io/badge/download-resume-blue.svg)](https://github.com/EnAnsari/EnAnsari/releases/download/0/ansari-resume.pdf)
 [![fa](https://img.shields.io/badge/language-Persian-red.svg)](https://github.com/EnAnsari/EnAnsari/blob/main/other-lang/README-FA.md)
