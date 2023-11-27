@@ -67,7 +67,7 @@
     <td>
         <a href='https://github.com/EnAnsari/DSS1401'>DSS1401</a>
     </td>
-    <td></td>
+    <td>شامل فایل ارائه و پروژه نهایی</td>
   </tr>
   <tr>
     <td>8</td>
@@ -75,7 +75,7 @@
     <td>
         <a href='https://github.com/EnAnsari/comp-intl-hsu'>comp-intl-hsu</a>
     </td>
-    <td></td>
+    <td>شامل فایل پروژه</td>
   </tr>
   <tr>
     <td>9</td>
@@ -98,6 +98,22 @@
     <td>محیط چندرسانه‌ای</td>
     <td>
         <a href='https://github.com/EnAnsari/multi-media'>multi-media</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>محاسبات ابری</td>
+    <td>
+        <a href='https://github.com/EnAnsari/cloud-hsu'>cloud-hsu</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>بیوانفورماتیک</td>
+    <td>
+        <a href='https://github.com/EnAnsari/bioinformatics-hsu'>bioinformatics-hsu</a>
     </td>
     <td></td>
   </tr>
